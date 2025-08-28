@@ -24,19 +24,6 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
-				
-				/* Chat colors */
-				'chat-background': 'hsl(var(--chat-background))',
-				'chat-bubble-sent': 'hsl(var(--chat-bubble-sent))',
-				'chat-bubble-sent-foreground': 'hsl(var(--chat-bubble-sent-foreground))',
-				'chat-bubble-received': 'hsl(var(--chat-bubble-received))',
-				'chat-bubble-received-foreground': 'hsl(var(--chat-bubble-received-foreground))',
-				'chat-sidebar': 'hsl(var(--chat-sidebar))',
-				'chat-hover': 'hsl(var(--chat-hover))',
-				'chat-active': 'hsl(var(--chat-active))',
-				'chat-border': 'hsl(var(--chat-border))',
-				'status-online': 'hsl(var(--status-online))',
-				'status-unread': 'hsl(var(--status-unread))',
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
